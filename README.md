@@ -1,4 +1,4 @@
-![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2021/03/CDG_blog_post_image_02-850x412.jpg)
+![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
